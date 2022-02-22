@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.py": "python",
-        "iomanip": "cpp",
-        "iostream": "cpp",
-        "sstream": "cpp",
-        "regex": "cpp"
-    }
-}
